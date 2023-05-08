@@ -53,7 +53,7 @@ function descriptografa_texto(){
   copia_texto = copia_texto.replace(/ufat/g, 'u');
   mensagem.value = "";
   input.value = copia_texto;
-  mensagem.style.backgroundImage="url(https://github.com/adalbertobrant/Challenge-Oracle-One/blob/main/img/products.svg)";
+  mensagem.style.backgroundImage="url(products.svg)";
 }
 
 function copiar_texto(){
