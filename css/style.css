@@ -38,7 +38,7 @@ main {
 
 .mensagem {
   background: white; 
-  background-image: url(https://github.com/adalbertobrant/Challenge-Oracle-One/blob/main/img/products.svg);
+  background-image: url(/img/products.svg);
   background-repeat: no-repeat;
   border: none;
   border-radius: 24px;
